@@ -1,21 +1,34 @@
 body{
     background-color: rgb(206, 206, 206);
-    
+    width: 100%;
+    position: absolute;
 }
 .oi{
     font-size: 20px;
     color: rgb(19, 112, 233);
 }
+.corpo{
+    background-color: white;
+    width: 90%;
+    height: 800px;
+    margin-left: 50px;
+    position: absolute;
+}
 
 .suna{
+ margin:  200px auto;
  border: 2px solid green;
  border-radius: 5px;
  width: 200px;
  text-align: center;
  height: 200px;
+ position: relative;
 
 }
 .suna img{
     width: 100px;
     height: 110px;
 }
+
+
+
