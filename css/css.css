@@ -1,7 +1,16 @@
 body{
     background-color: rgb(206, 206, 206);
+    
 }
 .oi{
     font-size: 20px;
-    color: red;
+    color: rgb(19, 112, 233);
+}
+
+.suna{
+ border: 2px solid green;
+ border-radius: 5px;
+ width: 200px;
+ text-align: center;
+ height: 200px;
 }
